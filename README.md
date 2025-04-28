@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/blackwhite084-playwright-plus-python-mcp-badge.jpg)](https://mseep.ai/app/blackwhite084-playwright-plus-python-mcp)
+
 # playwright-server MCP server
 
 \A MCP server with playwright tools\
